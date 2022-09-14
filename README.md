@@ -1,3 +1,2 @@
 # HTML-and-CSS
-Proyectos para aprender HTML y CSS siguiendo tutoriales
-Revisar en caso de dudas para futuros proyectos
+Projects to practice and improve HTML and CSS skills by tutorials for academy purpose.
